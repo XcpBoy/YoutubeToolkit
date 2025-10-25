@@ -52,11 +52,13 @@ DOWNLOAD_LIMITS = {
     "playlist": 7
 }
 
-# 📅 Restricción de día (solo se puede usar los domingos)
+# 📅 Restricción de día 
 def check_day_restriction():
     """Permite ejecutar el script solo los domingos."""
     from datetime import datetime
     today = datetime.now().weekday()  # 0 = lunes ... 6 = domingo
-    if today not in (5, 6):
+    if today == 5 or today == 6:
+        return 
+    else: 
         print("🚫 Las funciones de búsqueda y descarga solo están disponibles los domingos.")
         exit(0)
