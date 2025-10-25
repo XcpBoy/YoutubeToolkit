@@ -47,7 +47,7 @@ KEYWORD_BLACKLIST = [
 
 # ⚙️ Límites de descargas diarias por tipo
 DOWNLOAD_LIMITS = {
-    "video": 3,
+    "video": 5,
     "audio": 5,
     "playlist": 7
 }
