@@ -57,6 +57,6 @@ def check_day_restriction():
     """Permite ejecutar el script solo los domingos."""
     from datetime import datetime
     today = datetime.now().weekday()  # 0 = lunes ... 6 = domingo
-    if today != 6:
+    if today not in (5, 6):
         print("🚫 Las funciones de búsqueda y descarga solo están disponibles los domingos.")
         exit(0)
