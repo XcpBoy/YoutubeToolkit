@@ -33,7 +33,7 @@ CHANNEL_BLACKLIST = [
 # 🚫 Palabras clave bloqueadas (filtra títulos o descripciones)
 KEYWORD_BLACKLIST = [
     'Pokemon', 'syfr', 'purge', 'Magi ', 'Futurama', 'Million Monster Millitia',
-    'Tower Defense', 'Overlord', 'Sinbad', 'Pokemusu', 'Franco Escamilla',
+    'Tower Defense', 'Overlord', 'Gachiakuta', 'Sinbad', 'Pokemusu', 'Franco Escamilla',
     'Dandadan', 'Manga', 'Anime', 'Creppypasta', 'OPM', 'One Punch Man', 'Smash',
     'Bloons', 'Kirby', 'Dragon Ball', 'Phineas', 'Gumball', 'FF', 'Final fantasy',
     'Deltarune', 'look outside ', 'Dead Cells', 'Hollow Knight', 'Death note',
@@ -48,7 +48,7 @@ KEYWORD_BLACKLIST = [
 # ⚙️ Límites de descargas diarias por tipo
 DOWNLOAD_LIMITS = {
     "video": 7,
-    "audio": 5,
+    "audio": 7,
     "playlist": 7
 }
 
