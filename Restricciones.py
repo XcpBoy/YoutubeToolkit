@@ -36,7 +36,7 @@ KEYWORD_BLACKLIST = [
     'Tower Defense', 'Overlord', 'Gachiakuta', 'Sinbad', 'Pokemusu', 'Franco Escamilla',
     'Dandadan', 'Manga', 'Anime', 'Yu Gi Oh','League of Legeneds','Videogame','Dead Cells','Kirby','Creppypasta', 'OPM', 'One Punch Man', 'Smash',
     'Bloons', 'Kirby', 'Dragon Ball', 'Phineas', 'Gumball', 'FF', 'Final fantasy',
-    'Deltarune', 'look outside ', 'Dead Cells', 'Hollow Knight', 'Death note',
+    'Deltarune', 'look outside ', 'News','Dead Cells', 'Hollow Knight', 'Death note',
     'Bloons TD6', 'Terraria', 'Comic', 'Hello Kitty', 'TCG', 'Speedrun',
     'Magic the gathering', 'Yu gi oh', 'Spiderman', 'Marvel', 'Noita', 'Dofus',
     'Mod', 'nuzlocke', 'Ludwig', 'Summoner', 'Friday Night Funkin', 'Warhammer',
