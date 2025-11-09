@@ -4,8 +4,8 @@
 
 # 🚫 Canales bloqueados (no permitidos para búsqueda o descarga)
 CHANNEL_BLACKLIST = [
-    'Gothamchess', 'Brendan Miller', 'Adam Conover', 'Ordinary Things', 'Tri Line', 
-    'kurzgesagt', 'Esquizofrenia Natural', 'Cordura Artificial', 'Adef', 'Artchad',
+    'Gothamchess', 'Brendan Miller', 'Adam Conover', 'Tri Line', 
+    'kurzgesagt',
     'Half as interesting', 'Aprende algo dinero','Living Deadman', 'Casi Creativo', 'Jesse James West',
     'The Duck Stories', 'Super Eye Patch Wolf', 'Theorist', 'Batakotoons', 'PapaMeat',
     'OffendingEverybody', 'MeatCanyon', 'Dragoon', 'Adam Something', 'Professor Lando',
