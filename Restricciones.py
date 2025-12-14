@@ -6,7 +6,7 @@
 CHANNEL_BLACKLIST = [
     'Gothamchess', 'Brendan Miller', 'Adam Conover', 'Tri Line', 
     'kurzgesagt',
-    'Half as interesting', 'Living Deadman', 'Casi Creativo', 'Jesse James West',
+    'Half as interesting', 'Art Chad','Living Deadman', 'Casi Creativo', 'Jesse James West',
     'The Duck Stories', 'Super Eye Patch Wolf', 'Theorist', 'Batakotoons', 'PapaMeat',
     'OffendingEverybody', 'MeatCanyon', 'Dragoon', 'Professor Lando',
     'Wefere', 'SCA entreteinment', 'Factorio', 'Enchufe TV', 'Pipepino', 'Fzst',
