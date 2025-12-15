@@ -4,8 +4,7 @@
 
 # 🚫 Canales bloqueados (no permitidos para búsqueda o descarga)
 CHANNEL_BLACKLIST = [
-    'Gothamchess', 'Brendan Miller', 'Adam Conover', 'Tri Line', 
-    'kurzgesagt',
+    'Gothamchess', 'Brendan Miller', 'Code Bullet', 'Adam Conover', 'Tri Line', 
     'Half as interesting', 'Art Chad','Living Deadman', 'Casi Creativo', 'Jesse James West',
     'The Duck Stories', 'Super Eye Patch Wolf', 'Theorist', 'Batakotoons', 'PapaMeat',
     'OffendingEverybody', 'MeatCanyon', 'Dragoon', 'Professor Lando',
@@ -14,7 +13,7 @@ CHANNEL_BLACKLIST = [
     'El ultimo TV nauta', 'Tech News Days','Casually Explained', 'Nico Core', 'Sr.Pelo', 'BackGuy',
     'ManlyBadassHero', 'Gonzok', 'El mundo de zowl', 'Dross', 'Drossrank', 'T3rr0r',
     'Bismuth', 'Summoning Salt', 'Nostalfan', 'Dr. Nowhere', 'Joseju', 'Jeff Nippard',
-    'LALITO RAMS', 'Ciencia de Sofa', 'Blue Jay', 'Sam O Nella', 'Lul Yeah',
+    'LALITO RAMS', 'Blue Jay', 'Sam O Nella', 'Lul Yeah',
     'JackScepticEye', 'Alpharad', 'Ludwig', 'Language Simp', 'Tu cosmopolis',
     'Missasinfonia', 'Theory', 'Solar Sands', 'EmpLemon', 'El plech', 
     'Lessons in Meme Culture', 'Asmongold', 'Al Jokes','Frozen prime', 'Mr Beast', 'Meat Cannyon',
