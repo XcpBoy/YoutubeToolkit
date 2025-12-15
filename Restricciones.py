@@ -15,7 +15,7 @@ CHANNEL_BLACKLIST = [
     'Bismuth', 'Summoning Salt', 'Nostalfan', 'Dr. Nowhere', 'Joseju', 'Jeff Nippard',
     'LALITO RAMS', 'Blue Jay', 'Sam O Nella', 'Lul Yeah',
     'JackScepticEye', 'Alpharad', 'Ludwig', 'Language Simp', 'Tu cosmopolis',
-    'Missasinfonia', 'Theory', 'Solar Sands', 'EmpLemon', 'El plech', 
+    'Missasinfonia', 'Theory', 'EmpLemon', 'El plech', 
     'Lessons in Meme Culture', 'Asmongold', 'Al Jokes','Frozen prime', 'Mr Beast', 'Meat Cannyon',
     'Papa Meat', 'Julio Di Esto', 'Doobus Goobus', 'AnzuTops 365', 'Sr Pelo', 
     'ssethtzeentach', 'Greg Doucette', 'Anzutops777','charnew', 'Beluga', 
@@ -24,7 +24,7 @@ CHANNEL_BLACKLIST = [
     'JuegaGerman', 'El Rubius', 'Enchufe TV', 'Auron', 'AuronPlay',
     'Alpharad', 'WolfeyVGC','Memenade', 'Missasinfonia',
     'Jaiden animations', 'the0dd1out', 'somethingelseyt', 'I did a thing', 
-    'Tier Zoo', 'Tale foundry', 'Curious archive', 'Overly Sarcastic Prodductions',
+    'Tale foundry', 'Curious archive', 'Overly Sarcastic Prodductions',
     'BaityBait', 'HamonBeat', 'Javienator3000', 'Fitnico', 'Dibrah', 'Cookie', 
     'Waffle Time'
 ]
