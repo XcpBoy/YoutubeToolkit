@@ -73,6 +73,7 @@ CHANNEL_BLACKLIST = [
     'Meat Cannyon',
     'MeatCanyon',
     'Memenade',
+    'Miniminuteman',
     'Missasinfonia',
     'Mr Beast',
     'Nico Core',
