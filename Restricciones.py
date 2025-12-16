@@ -4,7 +4,7 @@
 
 # 🚫 Canales bloqueados (no permitidos para búsqueda o descarga)
 CHANNEL_BLACKLIST = [
-    'Gothamchess', 'Brendan Miller', 'Code Bullet', 'Adam Conover', 'Tri Line', 
+    'Gothamchess', 'Solar Sands', 'Brendan Miller', 'Code Bullet', 'Adam Conover', 'Tri Line', 
     'Half as interesting', 'Art Chad','Living Deadman', 'Casi Creativo', 'Jesse James West',
     'The Duck Stories', 'Super Eye Patch Wolf', 'Theorist', 'Batakotoons', 'PapaMeat',
     'OffendingEverybody', 'MeatCanyon', 'Dragoon', 'Professor Lando',
