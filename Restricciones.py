@@ -105,6 +105,7 @@ CHANNEL_BLACKLIST = [
     'Theory',
     'Tri Line',
     'Tu cosmopolis',
+    'Vida Segun Richie',
     'Waffle Time',
     'Wefere',
     'Wesshamer',
