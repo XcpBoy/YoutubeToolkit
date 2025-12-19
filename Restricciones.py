@@ -56,7 +56,6 @@ CHANNEL_BLACKLIST = [
     'JackScepticEye',
     'Jaiden animations',
     'Javienator3000',
-    'Jeff Nippard',
     'Jesse James West',
     'Joseju',
     'Julio Di Esto',
