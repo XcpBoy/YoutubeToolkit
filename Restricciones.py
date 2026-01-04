@@ -6,6 +6,7 @@
 CHANNEL_BLACKLIST = [
     '3huntleo',
     'Adam Conover',
+    'adef', 
     'Al Jokes',
     'Alpharad',
     'AnzuTops 365',
