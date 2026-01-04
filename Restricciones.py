@@ -110,6 +110,7 @@ CHANNEL_BLACKLIST = [
     'Wefere',
     'Wesshamer',
     'WolfeyVGC',
+    'Kylle Hill',
     'X shift'
 ]
 
