@@ -5,6 +5,7 @@
 # 🚫 Canales bloqueados (no permitidos para búsqueda o descarga)
 CHANNEL_BLACKLIST = [
     '3huntleo',
+    'God of Coffe'
     'Adam Conover',
     'adef', 
     'Al Jokes',
