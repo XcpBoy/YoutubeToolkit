@@ -187,21 +187,3 @@ KEYWORD_BLACKLIST = [
     'Yu Gi Oh',
 ]
 
-
-# ⚙️ Límites de descargas diarias por tipo
-DOWNLOAD_LIMITS = {
-    "video": 2,
-    "audio": 7,
-    "playlist": 7
-}
-
-# 📅 Restricción de día 
-def check_day_restriction():
-    """Permite ejecutar el script solo los domingos."""
-    from datetime import datetime
-    today = datetime.now().weekday()  # 0 = lunes ... 6 = domingo
-    if today == 5 or today == 6:
-        return 
-    else: 
-        print("🚫 Las funciones de búsqueda y descarga solo están disponibles los domingos.")
-        exit(0)
