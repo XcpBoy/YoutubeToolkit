@@ -68,6 +68,7 @@ CHANNEL_BLACKLIST = [
     'Living Deadman',
     'Luetin',
     'Ludwig',
+    'Lul Yeah',
     'Majorkill',
     'ManlyBadassHero',
     'Markiplier',
