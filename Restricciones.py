@@ -12,7 +12,6 @@ CHANNEL_BLACKLIST = [
     'Alpharad',
     'AnzuTops 365',
     'Anzutops777',
-    'Art Chad',
     'Asmongold',
     'Auron',
     'AuronPlay',
@@ -112,7 +111,6 @@ CHANNEL_BLACKLIST = [
     'Wefere',
     'Wesshamer',
     'WolfeyVGC',
-    'Kylle Hill',
     'X shift'
 ]
 
