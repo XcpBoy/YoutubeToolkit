@@ -49,6 +49,7 @@ CHANNEL_BLACKLIST = [
     'Fzst',
     'Gonzok',
     'Gothamchess',
+    'Generic Entertainment',
     'Greg Doucette',
     'Half as interesting',
     'HamonBeat',
@@ -69,6 +70,7 @@ CHANNEL_BLACKLIST = [
     'Ludwig',
     'Lul Yeah',
     'Majorkill',
+    'Man Carrying Thing'
     'ManlyBadassHero',
     'Markiplier',
     'Meat Cannyon',
