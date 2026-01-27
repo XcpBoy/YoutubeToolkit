@@ -1,1 +1,1 @@
-DOWNLOAD_LIMITS = {"video": 10, "audio": 20, "playlist": 3}
+DOWNLOAD_LIMITS = {"video": 57, "audio": 20, "playlist": 3}
