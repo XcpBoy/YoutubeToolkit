@@ -7,7 +7,6 @@ CHANNEL_BLACKLIST = [
     '3huntleo',
     'God of Coffe'
     'Adam Conover',
-    'adef', 
     'Al Jokes',
     'Alpharad',
     'AnzuTops 365',
