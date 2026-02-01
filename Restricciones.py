@@ -29,6 +29,7 @@ CHANNEL_BLACKLIST = [
     'Code Bullet',
     'Cookie',
     'Curious archive',
+    'David Achu',
     'Diary of a CEO',
     'Dibrah',
     'Doobus Goobus',
