@@ -120,8 +120,7 @@ CHANNEL_BLACKLIST = [
 
 
 # 🚫 Palabras clave bloqueadas (filtra títulos o descripciones)
-KEYWORD_BLACKLIST = 
-    
+KEYWORD_BLACKLIST =  [
     'Anime',
     'Bloons',
     'Bloons TD6',
