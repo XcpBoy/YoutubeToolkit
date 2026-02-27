@@ -99,6 +99,7 @@ CHANNEL_BLACKLIST = [
     'somethingelseyt',
     'Sr Pelo',
     'ssethtzeentach',
+    'Shoe0nHead',
     'Summoning Salt',
     'Super Eye Patch Wolf',
     'T3rr0r',
