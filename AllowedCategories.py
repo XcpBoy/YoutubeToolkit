@@ -5,5 +5,6 @@
 ALLOWED_CATEGORIES = [
     "self improvement",
     "strength",
-    "bodybuilding"
+    "bodybuilding", 
+    "uni" 
 ]
