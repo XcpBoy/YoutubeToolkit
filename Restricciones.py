@@ -26,7 +26,6 @@ CHANNEL_BLACKLIST = [
     'charnew',
     'Chilaclips Esquizitos',
     'CircleToonsHD',
-    'Casual Geographic', 
     'zerohuntleo'
     'Code Bullet',
     'Cookie',
